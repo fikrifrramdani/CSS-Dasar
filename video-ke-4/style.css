@@ -1,0 +1,17 @@
+h1 {
+    font-family: arial, verdana, sans-serif;
+    font-size: 100px;
+    font-weight: normal;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+/* Shorthand font untuk CSS
+* gunakan properti font dengan cara menuliskan semua baris value di dalamnya
+*
+*/
+
+p {
+    font-family: georgia, serif;
+    line-height: 20px;
+}
